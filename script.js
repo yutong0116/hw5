@@ -38,7 +38,7 @@ Highcharts.chart('container', {
     },
     series: [
         {
-            name: 'Percentage',
+            name: '人數',
             colorByPoint: true,
             data: [
                 {
